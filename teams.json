@@ -1,0 +1,101 @@
+[
+  {
+    "id": 101,
+    "team": "Scuderia Ferrari",
+    "home": "Italie",
+    "championships_won": 16,
+    "engine_partner": "Ferrari",
+    "team_principal": "Frédéric Vasseur",
+    "has_won_races": true
+  },
+  {
+    "id": 102,
+    "team": "McLaren",
+    "home": "Verenigd Koninkrijk",
+    "championships_won": 8,
+    "engine_partner": "Mercedes",
+    "team_principal": "Andrea Stella",
+    "has_won_races": true
+  },
+  {
+    "id": 103,
+    "team": "Mercedes-AMG Petronas Formula One Team",
+    "home": "Verenigd Koninkrijk",
+    "championships_won": 8,
+    "engine_partner": "Mercedes",
+    "team_principal": "Toto Wolff",
+    "has_won_races": true
+  },
+  {
+    "id": 104,
+    "team": "Oracle Red Bull Racing",
+    "home": "Oostenrijk",
+    "championships_won": 6,
+    "engine_partner": "Red Bull Powertrains",
+    "team_principal": "Christian Horner",
+    "has_won_races": true
+  },
+  {
+    "id": 105,
+    "team": "Aston Martin Aramco Formula One Team",
+    "home": "Verenigd Koninkrijk",
+    "championships_won": 0,
+    "engine_partner": "Honda",
+    "team_principal": "Mike Krack",
+    "has_won_races": true
+  },
+  {
+    "id": 106,
+    "team": "Alpine F1 Team",
+    "home": "Frankrijk",
+    "championships_won": 2,
+    "engine_partner": "Renault",
+    "team_principal": "Bruno Famin",
+    "has_won_races": true
+  },
+  {
+    "id": 107,
+    "team": "Williams Racing",
+    "home": "Verenigd Koninkrijk",
+    "championships_won": 9,
+    "engine_partner": "Mercedes",
+    "team_principal": "James Vowles",
+    "has_won_races": true
+  },
+  {
+    "id": 108,
+    "team": "MoneyGram Haas F1 Team",
+    "home": "Verenigde Staten",
+    "championships_won": 0,
+    "engine_partner": "Ferrari",
+    "team_principal": "Ayao Komatsu",
+    "has_won_races": false
+  },
+  {
+    "id": 109,
+    "team": "Stake F1 Team Kick Sauber (Audi project)",
+    "home": "Zwitserland",
+    "championships_won": 0,
+    "engine_partner": "Audi",
+    "team_principal": "Alessandro Alunni Bravi",
+    "has_won_races": true
+  },
+  {
+    "id": 110,
+    "team": "Visa Cash App Racing Bulls",
+    "home": "Italie",
+    "championships_won": 0,
+    "engine_partner": "Red Bull Powertrains",
+    "team_principal": "Laurent Mekies",
+    "has_won_races": true
+  },
+  {
+    "id": 111,
+    "team": "Cadillac Formula 1 Team",
+    "home": "Verenigde Staten",
+    "championships_won": 0,
+    "engine_partner": "Ferrari",
+    "team_principal": "TBA",
+    "has_won_races": false
+  }
+]
