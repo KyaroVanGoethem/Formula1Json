@@ -18,7 +18,7 @@
       "engine_partner": "Mercedes",
       "team_principal": "Andrea Stella",
       "has_won_races": true,
-      "drivers_id":[1,2],
+      "drivers_id": [1, 2],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026mclarenlogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025mclarencarright.avif"
     }
@@ -42,7 +42,7 @@
       "engine_partner": "Mercedes",
       "team_principal": "Andrea Stella",
       "has_won_races": true,
-      "drivers_id":[1,2],
+      "drivers_id": [1, 2],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026mclarenlogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025mclarencarright.avif"
     }
@@ -66,7 +66,7 @@
       "engine_partner": "Mercedes",
       "team_principal": "Toto Wolff",
       "has_won_races": true,
-      "drivers_id":[3,4],
+      "drivers_id": [3, 4],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026mercedeslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025mercedescarright.avif"
     }
@@ -90,7 +90,7 @@
       "engine_partner": "Mercedes",
       "team_principal": "Toto Wolff",
       "has_won_races": true,
-      "drivers_id":[3,4],
+      "drivers_id": [3, 4],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026mercedeslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025mercedescarright.avif"
     }
@@ -114,7 +114,7 @@
       "engine_partner": "Red Bull Powertrains",
       "team_principal": "Christian Horner",
       "has_won_races": true,
-      "drivers_id":[5,6],
+      "drivers_id": [5, 6],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026redbullracinglogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025redbullracingcarright.avif"
     }
@@ -138,7 +138,7 @@
       "engine_partner": "Red Bull Powertrains",
       "team_principal": "Christian Horner",
       "has_won_races": true,
-      "drivers_id":[5,6],
+      "drivers_id": [5, 6],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026redbullracinglogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025redbullracingcarright.avif"
     }
@@ -162,7 +162,7 @@
       "engine_partner": "Ferrari",
       "team_principal": "Frédéric Vasseur",
       "has_won_races": true,
-      "drivers_id":[7,8],
+      "drivers_id": [7, 8],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026ferrarilogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025ferraricarright.avif"
     }
@@ -186,7 +186,7 @@
       "engine_partner": "Ferrari",
       "team_principal": "Frédéric Vasseur",
       "has_won_races": true,
-      "drivers_id":[7,8],
+      "drivers_id": [7, 8],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026ferrarilogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025ferraricarright.avif"
     }
@@ -210,7 +210,7 @@
       "engine_partner": "Mercedes",
       "team_principal": "James Vowles",
       "has_won_races": true,
-      "drivers_id":[9,10],
+      "drivers_id": [9, 10],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026williamslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025williamscarright.avif"
     }
@@ -234,7 +234,7 @@
       "engine_partner": "Mercedes",
       "team_principal": "James Vowles",
       "has_won_races": true,
-      "drivers_id":[9,10],
+      "drivers_id": [9, 10],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026williamslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025williamscarright.avif"
     }
@@ -258,7 +258,7 @@
       "engine_partner": "Red Bull Powertrains",
       "team_principal": "Laurent Mekies",
       "has_won_races": true,
-      "drivers_id":[11,12],
+      "drivers_id": [11, 12],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026racingbullslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025racingbullscarright.avif"
     }
@@ -282,7 +282,7 @@
       "engine_partner": "Red Bull Powertrains",
       "team_principal": "Laurent Mekies",
       "has_won_races": true,
-      "drivers_id":[11,12],
+      "drivers_id": [11, 12],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026racingbullslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025racingbullscarright.avif"
     }
@@ -306,7 +306,7 @@
       "engine_partner": "Honda",
       "team_principal": "Mike Krack",
       "has_won_races": true,
-      "drivers_id":[13,14],
+      "drivers_id": [13, 14],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026astonmartinlogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025astonmartincarright.avif"
     }
@@ -330,7 +330,7 @@
       "engine_partner": "Honda",
       "team_principal": "Mike Krack",
       "has_won_races": true,
-      "drivers_id":[13,14],
+      "drivers_id": [13, 14],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026astonmartinlogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025astonmartincarright.avif"
     }
@@ -354,7 +354,7 @@
       "engine_partner": "Ferrari",
       "team_principal": "Ayao Komatsu",
       "has_won_races": false,
-      "drivers_id":[15,16],
+      "drivers_id": [15, 16],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026haasf1teamlogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025haascarright.avif"
     }
@@ -378,7 +378,7 @@
       "engine_partner": "Ferrari",
       "team_principal": "Ayao Komatsu",
       "has_won_races": false,
-      "drivers_id":[15,16],
+      "drivers_id": [15, 16],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026haasf1teamlogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025haascarright.avif"
     }
@@ -402,7 +402,7 @@
       "engine_partner": "Renault",
       "team_principal": "Bruno Famin",
       "has_won_races": true,
-      "drivers_id":[17,18],
+      "drivers_id": [17, 18],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026williamslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025williamscarright.avif"
     }
@@ -426,7 +426,7 @@
       "engine_partner": "Renault",
       "team_principal": "Bruno Famin",
       "has_won_races": true,
-      "drivers_id":[17,18],
+      "drivers_id": [17, 18],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026williamslogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2025williamscarright.avif"
     }
@@ -450,7 +450,7 @@
       "engine_partner": "Audi",
       "team_principal": "Alessandro Alunni Bravi",
       "has_won_races": true,
-      "drivers_id":[19,20],
+      "drivers_id": [19, 20],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026audilogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2026audicarright.avif"
     }
@@ -474,7 +474,7 @@
       "engine_partner": "Audi",
       "team_principal": "Alessandro Alunni Bravi",
       "has_won_races": true,
-      "drivers_id":[19,20],
+      "drivers_id": [19, 20],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026audilogowhite.avif",
       "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2026audicarright.avif"
     }
@@ -498,9 +498,9 @@
       "engine_partner": "Ferrari",
       "team_principal": "TBA",
       "has_won_races": false,
-      "drivers_id":[21,22],
+      "drivers_id": [21, 22],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026cadillaclogowhite.avif",
-      "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2026fallbackcarright.avif"
+      "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2026cadillaccarright.avif"
     }
   },
   {
@@ -522,9 +522,9 @@
       "engine_partner": "Ferrari",
       "team_principal": "TBA",
       "has_won_races": false,
-      "drivers_id":[21,22],
+      "drivers_id": [21, 22],
       "Logo": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/teams/2026cadillaclogowhite.avif",
-      "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2026fallbackcarright.avif"
+      "Car": "https://raw.githubusercontent.com/KyaroVanGoethem/Formula1Json/refs/heads/main/Images/cars/2026cadillaccarright.avif"
     }
   }
 ]
